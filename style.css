@@ -165,6 +165,10 @@ body {
   overflow: hidden;
 }
 
+.item {
+  background-color: black;
+}
+
 .item .content {
   position: absolute;
   top: 50%;
